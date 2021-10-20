@@ -1,0 +1,54 @@
+{
+  "product": [
+    {
+      "link": "https://www.emag.ro/laptop-ultraportabil-asus-zenbook-duo-14-ux482ea-cu-procesor-intelr-coretm-i7-1165g7-pana-la-4-70-ghz-14-full-hd-touch-32gb-1tb-ssd-intelr-iris-xe-graphics-windows-10-pro-celestial-blue-ux482ea-hy029r/pd/D14F1DMBM/",
+      "name": "Laptop ultraportabil ASUS ZenBook Duo 14 UX482EA c",
+      "id": "UX482EA-HY029R",
+      "price": 8499,
+      "resigilat": 0,
+      "user": 677998815764152321
+    },
+    {
+      "link": "https://www.emag.ro/ceas-smartwatch-samsung-galaxy-watch4-44mm-lte-silver-sm-r875fzsaeue/pd/DC7VMPMBM/",
+      "name": "Ceas smartwatch Samsung Galaxy Watch4, 44mm, LTE, ",
+      "id": "SM-R875FZSAEUE",
+      "price": 1499,
+      "resigilat": 0,
+      "user": 677998815764152321
+    },
+    {
+      "link": "https://www.emag.ro/mouse-wireless-logitech-mx-master-3-gri-910-005695/pd/DRKJH6BBM/",
+      "name": "Mouse wireless Logitech MX Master 3, Gri",
+      "id": "910-005695",
+      "price": 419,
+      "resigilat": 0,
+      "user": 677998815764152321
+    }
+  ],
+  "flayers": [
+    {
+      "name": "LIDLRO",
+      "link": "https://www.lidl.ro/cataloage",
+      "subscribers": [
+        677998815764152321
+      ],
+      "previewsflyer": "",
+      "code": 1,
+      "htmlRoute": "a[data-controller=\"leaflet/link\"]",
+      "imgRoute": "img[data-controller=\"leaflet/thumb\"]",
+      "textRoute": "p[class=\"leafletcontainer__subtitle\"]"
+    },
+    {
+      "name": "LIDLIE",
+      "link": "https://www.lidl.ie/information/online-leaflets",
+      "subscribers": [
+        677998815764152321
+      ],
+      "previewsflyer": "",
+      "code": 0,
+      "htmlRoute": "a[data-controller=\"leaflet/link\"]",
+      "imgRoute": "img[data-controller=\"leaflet/thumb\"]",
+      "textRoute": "h3[class=\"leafletcontainer__title\"]"
+    }
+  ]
+}
